@@ -12,6 +12,21 @@ INSERT INTO STAFF VALUES(4,'Paul','Gramatovici');
 INSERT INTO STAFF VALUES(5,'Alex','Cuturela');
 INSERT INTO STAFF VALUES(6,'Raluca','Nae');
 INSERT INTO STAFF VALUES(7,'Maryam','Rousse');
+insert into staff values(16,'ThisDude','A');
+insert into staff values(17,'ThisDude','B');
+insert into staff values(18,'ThisDude','C');
+insert into staff values(19,'ThisDude','D');
+insert into staff values(20,'ThisDude','E');
+insert into staff values(21,'ThisDude','F');
+insert into staff values(21,'ThatDude','A');
+insert into staff values(22,'ThatDude','B');
+insert into staff values(23,'ThatDude','C');
+insert into staff values(24,'ThatDude','D');
+insert into staff values(25,'ThatDude','E');
+insert into staff values(26,'ThatDude','F');
+insert into staff values(27,'ThatDude','G');
+
+
 
 INSERT INTO ORDERS VALUES(1,'InStore',1,'10-MAY-17');
 INSERT INTO STAFF_ORDERS VALUES(1,1);
