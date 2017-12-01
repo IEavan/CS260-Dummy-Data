@@ -1,0 +1,72 @@
+Please confirm if you got this for 4, 6, 7, 8
+
+MENU :
+  (1) In-Store Purchases
+  (2) Collection
+  (3) Delivery
+  (4) Biggest Sellers
+  (5) Reserved Stock
+  (6) Staff Life-Time Success
+  (7) Staff Contribution
+  (8) Employees of the Year
+  (0) Quit
+Enter your choice : 4
+ProductID, ProductDesc, TotalValueSold
+5, Iphone+, $80000000
+4, Nokia, $20000000
+3, Iphone, $540000
+2, Samsung, $4000
+1, TV, $1000
+MENU :
+  (1) In-Store Purchases
+  (2) Collection
+  (3) Delivery
+  (4) Biggest Sellers
+  (5) Reserved Stock
+  (6) Staff Life-Time Success
+  (7) Staff Contribution
+  (8) Employees of the Year
+  (0) Quit
+Enter your choice : 6
+EmployeeName, TotalValueSold
+Ava Spataru, $60362300
+Alex Motoc, $40182200
+MENU :
+  (1) In-Store Purchases
+  (2) Collection
+  (3) Delivery
+  (4) Biggest Sellers
+  (5) Reserved Stock
+  (6) Staff Life-Time Success
+  (7) Staff Contribution
+  (8) Employees of the Year
+  (0) Quit
+Enter your choice : 7
+EmployeeName, Product 3, Product 4, Product 5,
+Ava Spataru, 4, 10000, 500,
+Alex Motoc, 2, 10000, 300,
+MENU :
+  (1) In-Store Purchases
+  (2) Collection
+  (3) Delivery
+  (4) Biggest Sellers
+  (5) Reserved Stock
+  (6) Staff Life-Time Success
+  (7) Staff Contribution
+  (8) Employees of the Year
+  (0) Quit
+Enter your choice : 8
+Enter the year : 2017
+Ava Spataru
+Alex Motoc
+MENU :
+  (1) In-Store Purchases
+  (2) Collection
+  (3) Delivery
+  (4) Biggest Sellers
+  (5) Reserved Stock
+  (6) Staff Life-Time Success
+  (7) Staff Contribution
+  (8) Employees of the Year
+  (0) Quit
+Enter your choice : 0
