@@ -63,3 +63,8 @@ INSERT INTO ORDERS VALUES(5,'Delivery',0,'11-MAR-16');
 INSERT INTO STAFF_ORDERS VALUES(28,5);
 INSERT INTO DELIVERIES VALUES(5,'Ava','Spataru','24','Pershore','Cov','12-MAR-16');
 INSERT INTO ORDER_PRODUCTS VALUES(5,8,234);
+
+insert into orders values(6, 'InStore', 1, '17-Nov-17');
+insert into staff_orders values(19, 6);
+insert into order_products values(5, 6, 200);
+insert into order_products values(5, 1, 2);
