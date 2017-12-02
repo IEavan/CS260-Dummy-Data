@@ -16,19 +16,19 @@ INSERT INTO STAFF VALUES(4,'Paul','Gramatovici');
 INSERT INTO STAFF VALUES(5,'Alex','Cuturela');
 INSERT INTO STAFF VALUES(6,'Raluca','Nae');
 INSERT INTO STAFF VALUES(7,'Maryam','Rousse');
-insert into staff values(16,'ThisDude','A');
-insert into staff values(17,'ThisDude','B');
-insert into staff values(18,'ThisDude','C');
-insert into staff values(19,'ThisDude','D');
-insert into staff values(20,'ThisDude','E');
-insert into staff values(21,'ThisDude','F');
-insert into staff values(22,'ThatDude','A');
-insert into staff values(23,'ThatDude','B');
-insert into staff values(24,'ThatDude','C');
-insert into staff values(25,'ThatDude','D');
-insert into staff values(26,'ThatDude','E');
-insert into staff values(27,'ThatDude','F');
-insert into staff values(28,'ThatDude','G');
+INSERT INTO STAFF VALUES(16,'ThisDude','A');
+INSERT INTO STAFF VALUES(17,'ThisDude','B');
+INSERT INTO STAFF VALUES(18,'ThisDude','C');
+INSERT INTO STAFF VALUES(19,'ThisDude','D');
+INSERT INTO STAFF VALUES(20,'ThisDude','E');
+INSERT INTO STAFF VALUES(21,'ThisDude','F');
+INSERT INTO STAFF VALUES(22,'ThatDude','A');
+INSERT INTO STAFF VALUES(23,'ThatDude','B');
+INSERT INTO STAFF VALUES(24,'ThatDude','C');
+INSERT INTO STAFF VALUES(25,'ThatDude','D');
+INSERT INTO STAFF VALUES(26,'ThatDude','E');
+INSERT INTO STAFF VALUES(27,'ThatDude','F');
+INSERT INTO STAFF VALUES(28,'ThatDude','G');
 
 
 
@@ -64,7 +64,7 @@ INSERT INTO STAFF_ORDERS VALUES(28,5);
 INSERT INTO DELIVERIES VALUES(5,'Ava','Spataru','24','Pershore','Cov','12-MAR-16');
 INSERT INTO ORDER_PRODUCTS VALUES(5,8,234);
 
-insert into orders values(6, 'InStore', 1, '17-Nov-17');
-insert into staff_orders values(19, 6);
-insert into order_products values(5, 6, 200);
-insert into order_products values(5, 1, 2);
+INSERT INTO ORDERS VALUES(6, 'InStore', 1, '17-Nov-17');
+INSERT INTO STAFF_ORDERS VALUES(19, 6);
+INSERT INTO ORDER_PRODUCTS VALUES(5, 6, 200);
+INSERT INTO ORDER_PRODUCTS VALUES(5, 1, 2);
